@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/posquit0/dokuwiki-plugin-syntaxhighlightjs.git"
+    "url": "git+https://github.com/douglasqsantos/dokuwiki-plugin-syntaxhighlightjs.git"
   },
   "keywords": [
     "syntax",
@@ -25,10 +25,10 @@
     "highlighter",
     "dokuwiki"
   ],
-  "author": "Posquit0.BJ <posquit0.bj@gmail.com> (http://www.posquit0.com)",
+  "author": "Douglas Quintiliano dos Santos <douglas.q.santos@gmail.com> (http://www.douglasqsantos.com.br)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/posquit0/dokuwiki-plugin-syntaxhighlightjs/issues"
+    "url": "https://github.com/douglasqsantos/dokuwiki-plugin-syntaxhighlightjs/issues"
   },
-  "homepage": "https://github.com/posquit0/dokuwiki-plugin-syntaxhighlightjs#readme"
+  "homepage": "https://github.com/douglasqsantos/dokuwiki-plugin-syntaxhighlightjs.git"
 }

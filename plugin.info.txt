@@ -1,7 +1,7 @@
 base   syntaxhighlightjs
-author Claud D. Park
-email  posquit0.bj@gmail.com
-date   2015-12-27
+author Douglas Quintiliano dos Santos
+email  douglas.q.santos@gmail.com
+date   2016-02-24
 name   syntaxhighlightjs plugin
 desc   Syntax Highlighter for DokuWiki with highlight.js
-url    https://github.com/Posquit0/dokuwiki-plugin-syntaxhighlightjs
+url    https://github.com/douglasqsantos/dokuwiki-plugin-syntaxhighlightjs
