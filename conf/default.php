@@ -8,6 +8,6 @@
 // Define a syntax for usage in DokuWiki
 $conf['syntax'] = 'sxh';
 // Choose a theme of highlight.js
-$conf['theme'] = 'default';
+$conf['theme'] = 'solarized-dark';
 // Restrict usage of plugin to these classes (comma separated)
 $conf['restrictedClasses'] = '';
