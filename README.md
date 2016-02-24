@@ -8,7 +8,7 @@ This plugin gives you the ability to highlight the code using [Highlight.JS Plug
 
 ## Screenshot
 
-![screenshot](https://github.com/douglasqsantos/dqs-dokuwiki-syntaxhighlightjs/blob/master/examples.png)
+![screenshot](https://github.com/douglasqsantos/dokuwiki-plugin-syntaxhighlightjs/blob/master/examples.png)
 
 ## Installation
 
