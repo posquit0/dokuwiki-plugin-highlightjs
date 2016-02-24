@@ -1,5 +1,7 @@
 **Based on:** https://github.com/isagalaev/highlight.js
 
+**Based on:** https://github.com/posquit0/dokuwiki-plugin-syntaxhighlightjs
+
 This plugin gives you the ability to highlight the code using [Highlight.JS Plugin](https://highlightjs.org) inside containers (pre > code) with following options:
   * a programming language
   * a width
@@ -12,7 +14,7 @@ This plugin gives you the ability to highlight the code using [Highlight.JS Plug
 
 ## Installation
 
-Use the following path to install the plugin: https://github.com/douglasqsantos/dqs-dokuwiki-syntaxhighlightjs/archive/master.zip
+Use the following path to install the plugin: https://github.com/douglasqsantos/dokuwiki-plugin-syntaxhighlightjs/archive/master.zip
 
 Download and install the plugin using the [Plugin Manager](https://www.dokuwiki.org/plugin:plugin) using the URL given above. Refer to Plugins on how to install plugins manually.
 
@@ -94,18 +96,3 @@ Basic Syntax:
 |**syntax**            | Which name to use for syntax                                | sxh           |
 |**theme**             | theme for styling your code                                 | default       |
 |**restrictedClasses** | restrict usage of plugin to these (comma separated) classes | empty         |
-
-
-----
-Copyright (C) Claud D. Park <posquit0.bj@gmail.com>
-
-This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; version 2 of the License
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-See the COPYING file in your DokuWiki folder for details
