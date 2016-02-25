@@ -96,3 +96,17 @@ Basic Syntax:
 |**syntax**            | Which name to use for syntax                                | sxh           |
 |**theme**             | theme for styling your code                                 | default       |
 |**restrictedClasses** | restrict usage of plugin to these (comma separated) classes | empty         |
+
+-----
+-Copyright (C) Claud D. Park <posquit0.bj@gmail.com>
+-
+-This program is free software; you can redistribute it and/or modify
+-it under the terms of the GNU General Public License as published by
+-the Free Software Foundation; version 2 of the License
+-
+-This program is distributed in the hope that it will be useful,
+-but WITHOUT ANY WARRANTY; without even the implied warranty of
+-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+-GNU General Public License for more details.
+-
+-See the COPYING file in your DokuWiki folder for details
